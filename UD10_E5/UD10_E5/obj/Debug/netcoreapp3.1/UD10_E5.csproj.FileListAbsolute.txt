@@ -1,0 +1,13 @@
+C:\Users\Arnau\source\repos\UD10_E5\UD10_E5\bin\Debug\netcoreapp3.1\UD10_E5.exe
+C:\Users\Arnau\source\repos\UD10_E5\UD10_E5\bin\Debug\netcoreapp3.1\UD10_E5.deps.json
+C:\Users\Arnau\source\repos\UD10_E5\UD10_E5\bin\Debug\netcoreapp3.1\UD10_E5.runtimeconfig.json
+C:\Users\Arnau\source\repos\UD10_E5\UD10_E5\bin\Debug\netcoreapp3.1\UD10_E5.runtimeconfig.dev.json
+C:\Users\Arnau\source\repos\UD10_E5\UD10_E5\bin\Debug\netcoreapp3.1\UD10_E5.dll
+C:\Users\Arnau\source\repos\UD10_E5\UD10_E5\bin\Debug\netcoreapp3.1\UD10_E5.pdb
+C:\Users\Arnau\source\repos\UD10_E5\UD10_E5\obj\Debug\netcoreapp3.1\UD10_E5.csprojAssemblyReference.cache
+C:\Users\Arnau\source\repos\UD10_E5\UD10_E5\obj\Debug\netcoreapp3.1\UD10_E5.AssemblyInfoInputs.cache
+C:\Users\Arnau\source\repos\UD10_E5\UD10_E5\obj\Debug\netcoreapp3.1\UD10_E5.AssemblyInfo.cs
+C:\Users\Arnau\source\repos\UD10_E5\UD10_E5\obj\Debug\netcoreapp3.1\UD10_E5.csproj.CoreCompileInputs.cache
+C:\Users\Arnau\source\repos\UD10_E5\UD10_E5\obj\Debug\netcoreapp3.1\UD10_E5.dll
+C:\Users\Arnau\source\repos\UD10_E5\UD10_E5\obj\Debug\netcoreapp3.1\UD10_E5.pdb
+C:\Users\Arnau\source\repos\UD10_E5\UD10_E5\obj\Debug\netcoreapp3.1\UD10_E5.genruntimeconfig.cache
